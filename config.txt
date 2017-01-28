@@ -1,1 +1,2 @@
 name = peter
+NAME = 100
